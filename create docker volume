@@ -1,4 +1,5 @@
-# buat docker volume pgdata-9.6, folder ini ada di /var/lib/docker/volume/pgdata
+# buat docker volume pgdata-9.6
+# kalau mau backup data docker ada di sini /var/lib/docker/volume/pgdata
 docker volume create pgdata-9.6
 
 # contoh penggunaan
