@@ -1,0 +1,5 @@
+# untuk membersihkan docker container yang tidak terpakai / nonaktif 
+docker system prune
+
+# untuk menghapus docker volume di yang tidak terpakai di /var/lib/docker/volume 
+docker volume prune

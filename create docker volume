@@ -1,0 +1,5 @@
+# buat docker volume pgdata-9.6, folder ini ada di /var/lib/docker/volume/pgdata
+docker volume create pgdata-9.6
+
+# contoh penggunaan
+docker run --name postgres-backup -p 5434:5432 -e POSTGRES_PASSWORD=postgres -v pgdata-9.6:/var/lib/postgresql/data -d postgres:9.6

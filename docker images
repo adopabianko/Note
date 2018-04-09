@@ -1,0 +1,5 @@
+# Postgres-9.6
+docker run --name postgres-backup -p 5434:5432 -e POSTGRES_PASSWORD=postgres -v pgdata-9.6:/var/lib/postgresql/data -d postgres:9.6
+
+# PHP7.0 & apache
+docker run -d -p 8182:80 --name php-7.0 -v "$PWD":/var/www/html php:7.0-apache
