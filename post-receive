@@ -1,0 +1,2 @@
+#!/bin/bash
+git --work-tree=/home/www/html/project/git/damri_api/ --git-dir=/home/nutech/git_repo/damri_api.git/ checkout -f
