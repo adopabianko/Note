@@ -17,8 +17,8 @@ PT. Nutech Integrasi
    (Create and Develop Web Application and API Bus Ticketing System (East Java) used by Web Reservation and Mobile Reservation.)
 6. Membangung git repository server menggunakan gitlab dan docker.
    (Built git repository server using gitlab and docker.)
-7. Menjadi Gitlab Administrator untuk membuatkan git repository dari tiap project yang ada serta mengkonfigurasi Continues Integration dan Continues Development dari project tersebut.
-   (Become a Gitlab Administrator to create a git repository of each existing project and configure the Continues Integration and Continues Development of the project.)
+7. Sebagai Gitlab Administrator untuk membuatkan git repository dari tiap project yang ada serta mengkonfigurasi Continues Integration dan Continues Development dari project tersebut.
+   (As Gitlab Administrator to create a git repository of each project and configure the Continues Integration and Continues Development of the project.)
 
 PT. Transretail Indonesia (Carrefour)
 1. Membuat Daily, Weekly & Monthly Sales dan inventory Report.
