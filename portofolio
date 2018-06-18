@@ -1,22 +1,37 @@
 Tirto.ID
 1. Bertanggung jawab untuk memelihara serta mengembangkan Aplikasi Content Management System.
+   (Responsible for maintaining and developing Content Management System Applications.)
 2. Membuat serta mengembangkan Aplikasi Monitoring Sepak Bola yang terintegrasi dengan API Sport Radar.
+   (Create and Develop an integrated Football Monitoring Applications with Sport Radar API.)
 
 PT. Nutech Integrasi
 1. Bertanggung jawab untuk memelihara dan mengembangkan Aplikasi Web dan API System Ticketing Jakarta Fair (PRJ).
+   (Responsible for maintaining and developing Web Application and API System Ticketing Jakarta Fair (PRJ).)
 2. Membuat serta mengembangkan Aplikasi Web dan API Exhibition System Trade Expo Indonesia.
-3. Membuat serta mengembangkan API middleware yang terintegrasi dengan Core System Ticketing PT. Railink (Kereta Bandara).
-4. Membuat serta mengembangkan Aplikasi Web Membership Voucher dan membuat API Membership Voucher PT. Railink (Kereta Bandara) yang digunakan oleh Web Reservation, Mobile Reservation, Vending Mechine dan Point Of Sales.
+   (Create and Develop Web Application and API Exhibition System Trade Expo Indonesia.)
+3. Membuat serta mengembangkan API middleware yang terintegrasi dengan Core Airport Railway Ticketing System PT. Railink (Kereta Bandara).
+   (Create and Develop API middleware integrated with Core Airport Railway Ticketing System PT. Railink (Airport Train).)
+4. Membuat serta mengembangkan Aplikasi Web Membership Voucher dan API Membership Voucher PT. Railink (Kereta Bandara) yang digunakan oleh Web Reservation, Mobile Reservation, Vending Mechine dan Point Of Sales.
+   (Create and Develop Web Application Membership Voucher and API Membership Voucher PT. Railink (Airport Train) used by Web Reservation, Mobile Reservation, Vending Mechine and Point Of Sales.)
 5. Membuat serta mengembangkan Aplikasi Web dan Api Bus Ticketing System (Jawa Timur) yang digunakan oleh Web Reservation dan Mobile Reservation.
+   (Create and Develop Web Application and API Bus Ticketing System (East Java) used by Web Reservation and Mobile Reservation.)
 6. Membangung git repository server menggunakan gitlab dan docker.
+   (Built git repository server using gitlab and docker.)
 7. Menjadi Gitlab Administrator untuk membuatkan git repository dari tiap project yang ada serta mengkonfigurasi Continues Integration dan Continues Development dari project tersebut.
+   (Become a Gitlab Administrator to create a git repository of each existing project and configure the Continues Integration and Continues Development of the project.)
 
 PT. Transretail Indonesia (Carrefour)
 1. Membuat Daily, Weekly & Monthly Sales dan inventory Report.
+   (Create Daily, Weekly & Monthly Sales and Inventory Report.)
 2. Mengontrol data sales dan inventory.
+   (Controls sales and inventory data.)
 
 PT. DuAZ Solusi
 1. Membuat serta mengembangkan Aplikasi Web Finance Sekolah Dian Harapan.
+   (Create and Develop Web Application Finance Dian Harapan School.)
 2. Membuat serta mengembangkan Web Profile Kementrian Perdagangan Majalengka.
-3. Membuat serta mengembangkan Aplikasi Antrian Pengunjung Lapas Kelas III Cikarang Bekasi
-4. Membuat serta mengembangkan Web Profile Lapas Kelas III Cikarang Bekasi
+   (Create and Develop Web Profile Ministry of Commerce Majalengka.)
+3. Membuat serta mengembangkan Aplikasi Antrian Pengunjung Lapas Kelas III Cikarang Bekasi.
+   (Creating and develop the Classroom Visit Application Visitors Class III Cikarang Bekasi.)
+4. Membuat serta mengembangkan Web Profile Lapas Kelas III Cikarang Bekasi.
+   (Creating and developing Web Profile of Class III Cikarang Bekasi.)
