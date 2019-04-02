@@ -2,6 +2,8 @@
 #
 # Backup database postgre perhari by ado ganteng.
 # buat file di ~/.pgpass isinya localhost:5432:*:postgres:postgres
+# buat crobjob 
+# $ crontab -e isikan /home/ado/daily_backup_postgres.sh
 
 BACKUP_DIR=/home/ado/backup_posgtres
 DAYS_TO_KEEP=7
