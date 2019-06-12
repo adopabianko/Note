@@ -1,0 +1,29 @@
+stages:
+  - development
+  - production
+
+deploy_development:
+  stage: development
+  script:
+    - git --work-tree="/path/project" checkout -f > deploy.log
+    - rm -rf /path/project/.git* >> deploy.log
+  environment:
+    name: development
+    url: http://development.com/
+  tags:
+    - tag-dev
+  only:
+    - development
+    
+deploy_production:
+  stage: production
+  script:
+    - git --work-tree="/path/project" checkout -f > deploy.log
+    - rm -rf /path/project/.git* >> deploy.log
+  environment:
+    name: production
+    url: http://production.com/
+  tags: 
+    - tag-prod
+  only:
+    - master
